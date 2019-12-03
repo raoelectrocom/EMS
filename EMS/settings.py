@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'cities_light',
     'smart_selects',
 
-    'employee'
+    'employee',
+    'project'
 ]
 
 MIDDLEWARE = [
